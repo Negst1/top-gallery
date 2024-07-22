@@ -25,7 +25,7 @@
 
 ## Процесс выполнения проекта
 
-1. Первым делот в папке Photo-gallery создам react проект с помощью команды
+1. Первым делом в папке Photo-gallery создам react проект с помощью команды
 
 `npx create-react-app photo-gallery-fontend`
 
